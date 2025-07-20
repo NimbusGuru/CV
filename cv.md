@@ -90,5 +90,5 @@ Fort d’un parcours complet de l’infrastructure on-premise à la transformati
 ## Langues
 
 - Français : Courant  
-- Anglais : Professionnel  
+- Anglais : Courant  
 - Arabe : Courant  

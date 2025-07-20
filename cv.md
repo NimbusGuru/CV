@@ -5,22 +5,22 @@ LinkedIn : [https://www.linkedin.com/in/benbrahimanass/](https://www.linkedin.co
 
 ---
 
-## Profil  
+## 👤 Profil  
 Architecte Cloud spécialisé dans la conception et la mise en œuvre de solutions Azure sécurisées, résilientes et optimisées en coûts. Expertise forte en architecture évolutive, automatisation IaC, sécurité cloud et pilotage FinOps.  
 Fort d’un parcours complet de l’infrastructure on-premise à la transformation cloud.
 
 ---
 
-## Expérience Professionnelle
+## 💼 Expérience Professionnelle
 
-### Architecte Cloud Solution — Rydge Conseil  
+### 🏢 Architecte Cloud Solution — Rydge Conseil  
 - Définition et standardisation des modèles d’architecture cloud (Azure)  
 - Optimisation et FinOps : suivi, réduction des coûts et reporting (PowerBI)  
 - Refactorisation IAC (Bicep → Terraform)  
 - Migration de souscriptions EA vers CSP  
 - Accompagnement projet de l’idéation à l’implémentation  
 
-### TechLead Infrastructure PaaS — AXA France  
+### 🏢 TechLead Infrastructure PaaS — AXA France  
 - Conception et mise en œuvre d’architectures PaaS sécurisées, évolutives, hautement disponibles avec plan de reprise après sinistre (HA/DR)  
 - Élaboration de modèles d’architecture cloud robustes pour l’hébergement de ressources critiques (support mission critical)  
 - Automatisation Infrastructure as Code (IaC) avec Terraform et Azure DevOps pour garantir la cohérence et la reproductibilité des environnements  
@@ -28,13 +28,13 @@ Fort d’un parcours complet de l’infrastructure on-premise à la transformati
 - Définition et intégration de solutions de sauvegarde (PITR, LTR) adaptées aux besoins architecturaux  
 - Conception d’une infrastructure orchestrée pour l’exécution de tâches d'optimisation des index des bases de données via OpenShift CronJobs (GitOps avec FluxCD, Kustomize)  
 
-### Technical Account Manager / Ingénieur Sécurité Cloud — Orange CyberDefense  
+### 🏢 Technical Account Manager / Ingénieur Sécurité Cloud — Orange CyberDefense  
 - Implémentation et intégration de Prisma Cloud CSPM  
 - Élaboration de tableaux de bord sécurité (Python + PowerBI)  
 - Conseil clients sur sécurisation et conformité cloud  
 - Accompagnement des clients sur des projets de sécurité Cloud (Azure) (WAF, Defender for Cloud, etc.)  
 
-### Ingénieur Cloud Azure — Modis France  
+### 🏢 Ingénieur Cloud Azure — Modis France  
 - Création de tenant Azure & landing zones  
 - Architecture réseau hub-and-spoke avec Sophos Firewall  
 - Configuration VPN site-à-site et utilisateur  
@@ -46,7 +46,7 @@ Fort d’un parcours complet de l’infrastructure on-premise à la transformati
 - Création et gestion d'une organisation Azure DevOps (gestion d'accès, agents VMSS, policy, etc.)  
 - Mise en place d'une infrastructure d'envoi de mails (SendGrid + Postfix)  
 
-### Ingénieur Systèmes & Réseaux — Modis France  
+### 🏢 Ingénieur Systèmes & Réseaux — Modis France  
 - Remplacement de pare-feu NGFW (Sophos) sur 8 sites  
 - Mise en place du SIEM Graylog on-premise  
 - Mise en place de la supervision avec Nagios/Centreon  
@@ -59,7 +59,7 @@ Fort d’un parcours complet de l’infrastructure on-premise à la transformati
 
 ---
 
-## Compétences Techniques
+## 🛠️ Compétences Techniques
 
 | Domaine                   | Compétences clés                                                                 |
 |--------------------------|----------------------------------------------------------------------------------|
@@ -76,7 +76,7 @@ Fort d’un parcours complet de l’infrastructure on-premise à la transformati
 
 ---
 
-## Certifications
+## 🎓 Certifications
 
 - Microsoft Azure Solutions Architect Expert  
 - Microsoft Azure Administrator Associate  
@@ -87,7 +87,7 @@ Fort d’un parcours complet de l’infrastructure on-premise à la transformati
 
 ---
 
-## Langues
+## 🌍 Langues
 
 - Français : Courant  
 - Anglais : Courant  

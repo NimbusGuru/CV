@@ -1,5 +1,5 @@
 # Anass BENBRAHIM  
-**Architecte Cloud Azure**  
+**Architecte Technique - Cloud**  
 Email : anass.benbrahim@hotmail.com  
 LinkedIn : [https://www.linkedin.com/in/benbrahimanass/](https://www.linkedin.com/in/benbrahimanass/)
 
@@ -13,7 +13,7 @@ Fort d’un parcours complet de l’infrastructure on-premise à la transformati
 
 ## 💼 Expérience Professionnelle
 
-### **Architecte Cloud Solution — Rydge Conseil**  
+### **Architecte Technique — Rydge Conseil**  
 *04/2025 – Aujourd’hui*  
 - Définition et standardisation des modèles d’architecture cloud (Azure)  
 - Optimisation et FinOps : suivi, réduction des coûts et reporting (PowerBI)  
